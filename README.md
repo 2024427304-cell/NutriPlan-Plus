@@ -96,10 +96,6 @@ NutriPlan-Plus/
 <img width="1348" height="677" alt="Home" src="https://github.com/user-attachments/assets/f7afb134-e25b-4b01-a004-7278b5c7a48d" />
 
 
-### Menu Page
-<img width="1350" height="679" alt="selectedMenu" src="https://github.com/user-attachments/assets/571ead1b-39d1-475b-9bff-649912e00afe" />
-
-
 ### Selected Menu
 <img width="1350" height="679" alt="selectedMenu" src="https://github.com/user-attachments/assets/23289a3d-f27a-4bc4-ad5a-a7f6f70ae680" />
 
